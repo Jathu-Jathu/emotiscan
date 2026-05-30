@@ -1,0 +1,20 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.npy
+*.h5
+
+# Next.js
+frontend/node_modules/
+frontend/.next/
+frontend/.env.local
+
+# Dataset (too large for GitHub)
+train/
+test/
+fer2013.csv
+
+# OS
+.DS_Store
+Thumbs.db
